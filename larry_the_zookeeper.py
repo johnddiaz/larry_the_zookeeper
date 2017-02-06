@@ -1,10 +1,4 @@
 import time, sys
-class Larry():
-    def __init__(self):
-        pass
-
-    def delay(self):
-        print()
 
 def format_quote(quote): #trying to figure out how i would use this
     return quote[0] + ': ' + quote[1]
